@@ -1,0 +1,254 @@
+.action a {
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+section#trangcuatoi {
+  background-color: gray;
+  margin-left: -8px;
+}
+.action {
+  margin: 14px 0px 0px 226px;
+}
+a.chu {
+  background-color: white;
+  font-weight: 900;
+  font-size: 27px;
+  margin-left: 57px;
+}
+a.chu3 {
+  font-weight: 900;
+  font-size: 27px;
+  margin-left: 36px;
+}
+
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.dichvu {
+  border: 7px solid #8dd4ec;
+  height: 220px;
+  border-radius: 8%;
+  width: 300px;
+  background-color: white;
+}
+.anh {
+  padding: 90px;
+  margin: -28px 0px -78px 0px;
+}
+.chu {
+  margin: 0px 0px 0px 92px;
+}
+.dichvu-2 {
+  border-color: #f393a1;
+  background-color: white;
+}
+.dichvu-3 {
+  border-color: #ff204c;
+  border-style: dashed;
+  background-color: white;
+}
+
+ul {
+  list-style: none;
+}
+.thongtin {
+  border: 1px solid #8dd4ec;
+  height: 130px;
+  border-radius: 8%;
+  width: 200px;
+}
+div#tag {
+  background-color: white;
+}
+.kyhieu {
+  padding: 28px;
+  margin: 0px 0px -24px 52px;
+}
+a.tagchu {
+  margin: 0px 0px 0px 29px;
+}
+a.tagchu4 {
+  margin: 0px 0px 0px 55px;
+}
+a.tagchu1,
+.tagchu4,
+.tagchu {
+  margin: 0px 0px 0px 12px;
+  font-size: 16px;
+  font-weight: 900;
+  color: #47474d;
+}
+a.anhtieude {
+  color: #44434b;
+  font-weight: 500;
+}
+img.tim {
+  margin-bottom: -6px;
+}
+
+.sanpham {
+  height: 250px;
+  border-radius: 8%;
+  width: 200px;
+}
+.anhsanpham {
+  padding: 38px;
+  margin: 0px 0px 0px 0px;
+  position: relative;
+}
+img.anh2 {
+  position: absolute;
+}
+img.anh2 {
+  width: 200px;
+}
+img:last-child {
+  z-index: -1;
+  top: 19px;
+  left: 3px;
+}
+img.anhcuoi {
+  margin-left: -33px;
+  width: 193px;
+  margin-top: -15px;
+}
+img.hamburgers {
+  margin: 26px 0px 0px -14px;
+  width: 168px;
+}
+div#position {
+  border: 1px solid #8dd4ec;
+  width: 300px;
+  height: 220px;
+  margin: 29px 0px 0px 0px;
+}
+span.font-weight {
+  font-weight: 900;
+}
+div#image-sidebar {
+  margin: -21px 0px 0px -15px;
+}
+div#poin {
+  background-color: #ffefeb;
+}
+.col-5.poin {
+  font-weight: 900;
+}
+.sidebarleft {
+  margin-left: -18px;
+}
+.sidebarright {
+  margin-left: -46px;
+  border: 1px solid black;
+}
+span.top {
+  border: 1px solid white;
+  border-radius: 25%;
+  background-color: white;
+}
+section#chu {
+  margin-left: -132px;
+  background-color: #e4d5cc;
+}
+.menu {
+  margin-left: 20px;
+}
+.categoryname {
+  border: 1px solid black;
+  width: 300px;
+  margin-left: -31px;
+}
+p.border-sidebar {
+  border-bottom: 3px solid #edebeb;
+  height: 39px;
+  color: #999999;
+}
+p.border-sidebar.blue,
+.blue {
+  color: #02a4cd;
+}
+img.hinhanh {
+  border: 1px solid #f1b1b8;
+  width: 300px;
+  margin-left: -16px;
+  background-color: #F1B1CA;
+}
+.iphone {
+  height: 160px;
+}
+.imagesidebar2 {
+  border: 1px solid black;
+  width: 300px;
+  margin-left: -15px;
+  background-color: #95d9f5;
+  position: relative;
+}
+div#footer {
+  margin: 800px 0px 0px 0px;
+}
+.copyright {
+  float: right;
+}
+.nameweb {
+  text-align: right;
+}
+div#footer {
+  background-color: #f6f6f6;
+}
+
+img.appstore {
+  float: right;
+  margin-top: -103px;
+}
+img.googleplay {
+  float: right;
+  margin-top: -59px;
+  width: 136px;
+  height: 45px;
+}
+
+.thuonghieu {
+  margin: 0px 0px 0px 142px;
+  font-weight: 900;
+}
+a.name-luachon,
+.notnhac,
+.name_thuonghieu {
+  color: #de3e80;
+}
+.luachon {
+  position: absolute;
+  padding-top: 18px;
+  padding-left: 35px;
+  font-size: 28px;
+  font-weight: 600;
+}
+li.border-sidebar-black, .border-sidebar ,.border-sidebar-box {
+  border-bottom: 3px solid #edebeb;
+  padding: 15px;
+}
+ul.menu-sidebar {
+  margin: 0;
+  padding: 0;
+}
+li.border-sidebar-black {
+  background-color: #696969;
+}
+a.sidebar-text {
+  color: #02a4cd;
+  font-weight: 600;
+}
+img.tho {
+  margin: 0px 0px 70px -25px;
+  height: 100%;
+}
+.iphone {
+  height: 160px;
+  position: relative;
+  overflow: hidden;
+}
